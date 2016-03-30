@@ -1,0 +1,6 @@
+Django==1.9.4
+djangorestframework==3.3.3
+geocoder==1.10.0
+geopy==1.11.0
+google-api-python-client==1.5.0 
+oauth2client==2.0.1
